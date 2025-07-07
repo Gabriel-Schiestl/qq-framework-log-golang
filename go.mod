@@ -1,4 +1,4 @@
-module gitlab.queroquero.com.br/mercantil/framework/golang/qq-framework-log-golang
+module github.com/Gabriel-Schiestl/qq-framework-log-golang
 
 go 1.24.4
 
